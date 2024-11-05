@@ -11,4 +11,4 @@ Currently, two official plugins are available:
 
 # Kanvas
 
-Kanvas is a canva-like applications developed for practicing my react skill.
+Kanvas is a canva-like application, developed for practicing my react skill.
